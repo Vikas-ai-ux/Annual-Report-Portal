@@ -1,0 +1,17 @@
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\AnnualReportPortalApplication.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Config\WebConfig.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Controller\AdminController.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Controller\FacultyController.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Controller\StudentController.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Entity\Admin.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Entity\Faculty.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Entity\Student.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Repository\AdminRepository.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Repository\FacultyRepository.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Repository\StudentRepository.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Service\AdminService.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Service\FacultyService.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Service\Impl\AdminServiceImpl.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Service\Impl\FacultyImpl.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Service\Impl\StudentServiceImpl.java
+C:\Users\anshr\Downloads\Annual-Report-frontend\Annual_Report_Portal Backend\src\main\java\com\annual\report\Service\StudentService.java
